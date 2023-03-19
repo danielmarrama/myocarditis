@@ -1,0 +1,36 @@
+Protein Name,Gene,UniProt ID,Rank
+Myosin-6,MYO6,Q9UM54,IEDB
+Myosin-7,MYH7,P12883,IEDB
+Muscarinic acetylcholine receptor M2,CHRM2,P08172,IEDB
+Myosin-binding protein C - cardiac-type,MYBPC3,Q14896,IEDB
+Myosin-binding protein C - fast-type,MYBPC2,Q14324,IEDB
+Beta-2-glycoprotein 1,APOH,P02749,IEDB
+Laminin subunit alpha-1,LAMA1,P25391,IEDB
+Transmembrane protease serine 4,TMPRSS4,Q9NRS4,IEDB
+Troponin I,TNNI3,P19429,Paper
+Troponin T,TNNT2,P45379,Paper
+Beta-1 adrenergic receptor,ADRB1,P08588,Paper
+"Actin, alpha cardiac muscle 1",ACTC1,P68032,Paper
+Tropomyosin alpha-1 chain,TPM1,P09493,Paper
+Tropomyosin beta chain,TPM2,P07951,Paper
+Tropomyosin alpha-3 chain,TPM3,P06753,Paper
+Cytoplasmic aconitate hydratase,ACO1,P21399,Paper
+ADP/ATP translocase 1,SLC25A4,P12235,Paper
+Creatine kinase B-type,CKB,P12277,Paper
+"Creatine kinase S-type, mitochondrial",CKMT2,P17540,Paper
+"Creatine kinase U-type, mitochondrial",CKMT1A,P12532,Paper
+Creatine kinase M-type,CKM,P06732,Paper
+Desmin,DES,P17661,Paper
+"Dihydrolipoyl dehydrogenase, mitochondrial",DLD,P09622,Paper
+"60 kDa heat shock protein, mitochondrial",HSPD1,P10809,Paper
+Heat shock 70 kDa protein 1A,HSPA1A,P0DMV8,Paper
+Vimentin,VIM,P08670,Paper
+E3 ubiquitin-protein ligase TRIM21,TRIM21,P19474,Paper
+Lupus La protein,SSB,P05455,Paper
+Pyruvate kinase,PKLR,P30613,Paper
+Ubiquinol-cytochrome-c reductase complex assembly factor 1,UQCC1,Q9NVA1,Paper
+Sodium/potassium-transporting ATPase subunit alpha-1,ATP1A1,P05023,Paper
+Natriuretic peptides B,NPPB,P16860,Potential
+Natriuretic peptides A,NPPA,P01160,Potential
+"Troponin C, slow skeletal and cardiac muscles",TNNC1,P63316,Potential
+Transmembrane protein 65,TMEM65,Q6PI78,Potential
