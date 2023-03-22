@@ -1,3 +1,5 @@
 data/human_proteome.fasta
 data/non_myocarditis_antigens.fasta
 random_sets/
+data/shuffled_9mers.fasta
+data/shuffled_15mers.fasta
